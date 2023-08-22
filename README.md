@@ -1,20 +1,10 @@
-### Hi there 👋
-<!--
-**DevaanshPathak/DevaanshPathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
----
-# Devaansh Pathak 
----
+# **<u>Devaansh Pathak</u>** 
 ## About Me
-I am the typical person who likes to code in Python, HTML, Javascript and other frameworks.
+I am the typical person who likes to code in **Python**, **HTML**, **Javascript** and **other frameworks**.
+
+- 🔭 I’m currently working on building My Profile
+- 🌱 I’m currently learning C#
+- 💬 Ask me about anything related to computers
+- e-mail me at 📨 : pathakdevaansh2008@gmail.com
+- discord :
+- 😄 Pronouns: he/him
