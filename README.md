@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **DevaanshPathak/DevaanshPathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+# Devaansh Pathak 
+---
+## About Me
+I am the typical person who likes to code in Python, HTML, Javascript and other frameworks.
