@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on solving 1500 Leetcode Problems<br>🌱 I’m currently learning C#<br>💬 Ask me about anything related to computers<br>😄 Pronouns: he/him<br>⚡ This is supposed to be a fun fact, I don't have one<br>
+🔭 I’m currently working on solving 1500 Leetcode Problems<br>
+https://leetcode.com/pathakdevaansh2008/<br>
+🌱 I’m currently learning C#<br>
+💬 Ask me about anything related to computers<br>
+😄 Pronouns: he/him<br>
+⚡ This is supposed to be a fun fact, I don't have one<br>
 
 
 ## 🌐 Socials: [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nPcAMdxhbM) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/something_about_tech.in)   [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/DevaanshPathak) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22434894) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/devaansh_pathak) 
