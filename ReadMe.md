@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently preparing for The Joint Entrance Exam (JEE) and solving a lot of Leetcode problems.
+I am currently preparing for National University of Singapore (NUS) and solving a lot of Leetcode problems.
 
 
 # 💻 Tech Stack:
