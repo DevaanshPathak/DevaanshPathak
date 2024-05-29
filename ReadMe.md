@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-#I Am Preparing to Apply to NUS
+# I Am Preparing to Apply to NUS
 
 🔭 I’m currently working on SignToLine<br><br>🌱 I’m currently learning Data Structures and Algorithms <br><br>👯 I’m looking to collaborate on AppFlowy<br><br>🤝 I’m looking for help with Voting System<br><br>💬 Ask me about Anything Related to Programming<br><br>📫 Reach me at devaanshpathak08@gmail.com<br><br>⚡ Fun fact I think I am good at math.
 
