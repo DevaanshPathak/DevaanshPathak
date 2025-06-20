@@ -26,5 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devaanshpathak&" alt="devaanshpathak" /></p>
 
-https://github-readme-stats.hackclub.dev/api/wakatime?username=3840&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
-
+<p><img align="center' src="https://github-readme-stats.hackclub.dev/api/wakatimeusername=3840&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8"></p>p
