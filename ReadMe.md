@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devaansh Pathak</h1>
-# 💫 About Me:
+
+💫 About Me:
 AI/ML Researcher | Student at Scaler School of Technology (Class of 2030) | Building reliable tool-using LLM agents, RL Environments | Founder of Indium AI Labs
 
 
