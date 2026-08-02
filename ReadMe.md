@@ -3,21 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devaanshpathak&label=Profile%20views&color=0e75b6&style=flat" alt="devaanshpathak" /> </p>
 
-
-- 🔭 I’m currently working on [TechLang](https://github.com/DevaanshPathak/TechLang)
-
-- 🌱 I’m currently learning **DSA and C++**
-
-- 👯 I’m looking to collaborate on [TechCompressor](https://github.com/DevaanshPathak/TechCompressor)
-
-- 🤝 I’m looking for help with [MedReady-AI](https://github.com/DevaanshPathak/MedReady-AI)
-
-- 👨‍💻 All of my projects are available at [https://github.com/DevaanshPathak](https://github.com/DevaanshPathak)
-
-- 💬 Ask me about **Python and Tech**
-
-- 📫 How to reach me **devaanshpathak08@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
